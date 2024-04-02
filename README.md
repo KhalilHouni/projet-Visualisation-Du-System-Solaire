@@ -15,7 +15,7 @@ This project was made in 2 weeks.
 
 ## Try it Out
 
-You can try out the website on [my portfolio]([link-to-your-portfolio-website](https://khalilhouni.github.io))!
+You can try out the website on [my portfolio](https://khalilhouni.github.io)!
 
 ## How to Use
 
