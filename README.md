@@ -58,6 +58,4 @@ To run the application locally, follow these steps:
 
 This project was developed during my time at ADA TECH SCHOOL.
 
-## License
 
-[Specify license information for the project]
